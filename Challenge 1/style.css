@@ -1,0 +1,25 @@
+/* Style sheet for Challenge 1 */
+body {
+  background-color: lightgray;
+  font-family: Arial;
+}
+h2 {
+  background-color: maroon;
+  color: white;
+}
+h3 {
+  font-family: Georgia;
+  color: maroon;
+}
+ol li {
+  font-weight: bold;
+}
+dl {
+  font-weight: normal;
+}
+dt {
+  color: olive;
+}
+dd {
+  font-style: italic;
+}
